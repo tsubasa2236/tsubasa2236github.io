@@ -1,0 +1,16 @@
+.title{
+  color: #02ccba;
+}
+.header{
+  background-color: red;
+  color: white;
+  heigh:40px;
+}
+.header-logo{
+  float:left;
+  padding:40px 30px;
+}
+.hrader-list li{
+  float: left;
+  padding: 40px 50px;
+}
